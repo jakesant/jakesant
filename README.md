@@ -1,4 +1,9 @@
-### Hi there 👋
+### Heyo 👋
+
+I'm Jake Sant
+
+I'm currently in my second year at the University of Malta, studying Artificial Intelligence. I love learning new things no matter what
+they are, and I'm always looking to expand my knowledge in technology.
 
 <!--
 **jakesant/jakesant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
