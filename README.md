@@ -2,8 +2,13 @@
 
 I'm Jake Sant
 
-I'm currently in my second year at the University of Malta, studying Artificial Intelligence. I love learning new things no matter what
+I'm currently in my second year at the University of Malta, reading for a B.Sc in Artifical Intelligence. I love learning new things no matter what
 they are, and I'm always looking to expand my knowledge in technology.
+
+On my profile you'll have repositories relating to both academic assignments and personal projects. Feel free to check anything out and if you
+have any sort of feedback for me, I'd love to hear it!
+
+I'm also an avid music producer, having been making instrumental music for the past 5 years or so.
 
 <!--
 **jakesant/jakesant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
