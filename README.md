@@ -2,7 +2,7 @@
 
 I'm Jake Sant
 
-I'm currently in my second year at the University of Malta, reading for a B.Sc in Artifical Intelligence, whilst also working in IT support in a government agency. I love learning new things no matter what
+I'm currently in my third year at the University of Malta, reading for a B.Sc in Artifical Intelligence, whilst also working in IT support. I love learning new things no matter what
 they are, and I'm always looking to expand my knowledge in technology.
 
 On my profile you'll have repositories relating to both academic assignments and personal projects. Feel free to check anything out and if you
