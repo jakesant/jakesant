@@ -10,6 +10,10 @@ have any sort of feedback for me, I'd love to hear it!
 
 I'm also an avid music producer, having been making instrumental music for the past 5 years or so, and a visual artist, creating my own cover art. Recently I have been minting my visual art as NFTs which can be found at https://opensea.io/collection/elijah-sun-art
 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jakesant&count_private=true&show_icons=true&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakesant&layout=compact)
+
+
 <!--
 **jakesant/jakesant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
