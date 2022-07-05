@@ -5,7 +5,7 @@ I'm Jake Sant
 I'm currently in my third year at the University of Malta, reading for a B.Sc in Artifical Intelligence, whilst also working in IT support. I love learning new things no matter what
 they are, and I'm always looking to expand my knowledge in technology.
 
-My dissertation is on Neural Machine Translation with low-resource languages.
+My dissertation is on Multilingual Low-Resource Translation for Indo-European Languages.
 
 On my profile you'll have repositories relating to both academic assignments and personal projects. Feel free to check anything out and if you
 have any sort of feedback for me, I'd love to hear it!
