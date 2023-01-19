@@ -2,7 +2,7 @@
 
 I'm Jake Sant
 
-I'm Bachelor's of Science in Artifical Intelligence graduate from the University of Malta. I love learning new things no matter what
+I'm a Bachelor's of Science in Artifical Intelligence graduate from the University of Malta. I love learning new things no matter what
 they are, and I'm always looking to expand my knowledge in technology.
 
 My dissertation was on Multilingual Low-Resource Translation for Indo-European Languages and in it I leveraged pre-trained Transformer models on translating between languages in a low-resource context (note to self I need to fix the commit issues and upload that code soon).
