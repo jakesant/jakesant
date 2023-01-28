@@ -10,7 +10,7 @@ My dissertation was on Multilingual Low-Resource Translation for Indo-European L
 On my profile you'll have repositories relating to both academic assignments and personal projects. Feel free to check anything out and if you
 have any sort of feedback for me, I'd love to hear it!
 
-I'm also an avid music producer, and I have been making instrumental music for the past 5 years or so, as well as being a visual artist, creating my own cover art. Recently I have been minting my visual art as NFTs which can be found at https://opensea.io/collection/elijah-sun-art
+I'm also an avid music producer, and I have been making instrumental music for the past 5 years or so, as well as being a visual artist, creating my own cover art.
 
 
 <!--
